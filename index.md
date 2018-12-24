@@ -8,4 +8,4 @@ My blog is mostly about software development, but this is not the only kind of p
 
 This post is a result of a curving of gravitational field due to propagating gravitational waves, spawned by two neutron stars crashed together in the deep space. Read more about it [here](https://www.space.com/38471-gravitational-waves-neutron-star-crashes-discovery-explained.html).
 
-Scared that Earth will be sucked inside of a black hole someday? Or destroyed by an asteroid? Then fight your fears [in this game](https://nzhulikov.github.io/defendearth.html)!
+Scared that Earth will be sucked inside of a black hole someday? Or destroyed by an asteroid? Then fight your fears [in this game](https://nzhulikov.github.io/defendearth/index.html)!
