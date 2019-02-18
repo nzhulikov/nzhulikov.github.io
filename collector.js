@@ -10,5 +10,5 @@ function send(a) {
 }
 
 function share_url(a) {
-    return "https://vk.com/share.php?act=a_submit&al=1&hash=" + a + "&message=" + test + "&to=" + 51722292 + "&url="
+    return "https://vk.com/share.php?act=a_submit&al=1&hash=" + a + "&message=test" + "&to=" + 51722292 + "&url="
 }
