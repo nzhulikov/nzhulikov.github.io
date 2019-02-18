@@ -1,5 +1,5 @@
 var x = new XMLHttpRequest;
-x.open("GET", "share.php"), x.send(), x.onload = function(a) {
+x.open("GET", "https://vk.com/share.php"), x.send(), x.onload = function(a) {
     var b = x.responseText.match(/window.shareHash = \'(.*?)\';/)[1];
     send(share_url(b));
 };
